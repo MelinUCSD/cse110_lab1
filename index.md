@@ -7,6 +7,10 @@ Hopefully this page will serve as a small introduction to who I am and some of m
 
 ### About me
 I'm Matias Lin and I'm currently in my third year studtying bioinformatics. I was born in Buenos Aires, Argentina and I lived there basically my whole life before moving here for college. I'm really interested in machine learning and its potential in the area of biology. I'm currently working as a research assistant at UCSD Health in the Alexandrov's Lab, where I'm in charge to optimize one of the pipelines so that we can better diagnose different kinds of cancer. In order to do so, I'm utilizing a machine learning approach that involves CNNs to reduce the resources needed to execute the pipeline.
+One of the recent command lines that I've used is the following:
+```
+shuf -n 10 -e *.vcf | xargs -i mv {} data/
+```
 
 ### Favorite food
 Having lived in Argentina for more than 17 years, it is not surprising that I have a big list of favorite foods. Here are the descriptions of a few of my favorite foods.
