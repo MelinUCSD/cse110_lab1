@@ -6,12 +6,12 @@
 
 You can read more about *Milanesa napolitana* [here](https://www.thespruceeats.com/milanesa-napolitana-argentinian-fried-steak-3029473?utm_source=emailshare&utm_medium=social&utm_campaign=shareurlbuttons).
 
-![Milanesa napolitana](./images/napo.jpg)
+<img src="./images/napo.jpg" width="1250">
 
 **Empanadas**
-*Empanadas* are hand-sized savory pies that can be found all over South America. In Argentina, every province has its own variety. All follow the same basic culinary guideline — a soft pocket of dough that’s stuffed with a scrumptious, savory filling. There are a lot of variations to this kind of food but some of my favorites have the following fillings: "carne picante" and "humita".
+*Empanadas* are hand-sized savory pies that can be found all over South America. In Argentina, every province has its own variety. All follow the same basic culinary guideline — a soft pocket of dough that’s stuffed with a scrumptious, savory filling. There are a lot of variations to this kind of food but some of my favorites have the following fillings: "*carne picante*" and "*humita*".
 
-<p float="left">
-  <img src="./images/empanada_carne_picante.jpg" width="250">
-  <img src="./images/empanada_humita.jpg" width="250">
+<p align="middle">
+  <img src="./images/empanada_carne_picante.jpg" width="350">
+  <img src="./images/empanada_humita.jpg" width="350">
 </p>
