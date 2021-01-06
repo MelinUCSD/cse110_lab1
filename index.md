@@ -34,5 +34,5 @@ You can read more about *Milanesa napolitana* [here](https://www.thespruceeats.c
 You can read more about *Empanadas* [here](https://theculturetrip.com/south-america/argentina/articles/a-brief-history-of-the-empanada/).
 
 ### A few of the things I want to learn this quarter
-[ ]  Learn Javascript
-[ ]  Learn CSS
+1. [ ]  Learn Javascript
+2. [ ]  Learn CSS
