@@ -1,5 +1,5 @@
 # What is this page about?
-Hopefully this page will serve as a small introduction to who I am and some of my interests. Note that this page is not meant to be comprehensive :grin:, its main purpose is to practice utilizing Github Pages and Markdown files. 
+Hopefully this page will serve as a small introduction to who I am and some of my interests. Note that this page is not meant to be comprehensive, its main purpose is to practice utilizing Github Pages and Markdown files. 
 
 ## Table of contents
 - [A little about myself](#about-me)
@@ -32,3 +32,7 @@ You can read more about *Milanesa napolitana* [here](https://www.thespruceeats.c
 </p>
 
 You can read more about *Empanadas* [here](https://theculturetrip.com/south-america/argentina/articles/a-brief-history-of-the-empanada/).
+
+### A few of the things I want to learn this quarter
+- [ ] Learn Javascript
+- [ ] Learn CSS
