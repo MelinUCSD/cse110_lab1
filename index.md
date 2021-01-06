@@ -4,6 +4,7 @@ Hopefully this page will serve as a small introduction to who I am and some of m
 ## Table of contents
 - [A little about myself](#about-me)
 - [Favorite food](#favorite-food)
+- [Bucket list for this quater](#a-few-things-i-want-to-learn-this-quarter)
 
 ### About me
 I'm Matias Lin and I'm currently in my third year studtying bioinformatics. I was born in Buenos Aires, Argentina and I lived there basically my whole life before moving here for college. I'm really interested in machine learning and its potential in the area of biology. I'm currently working as a research assistant at UCSD Health in the Alexandrov's Lab, where I'm in charge to optimize one of the pipelines so that we can better diagnose different kinds of cancer. In order to do so, I'm utilizing a machine learning approach that involves CNNs to reduce the resources needed to execute the pipeline.
@@ -31,6 +32,6 @@ You can read more about *Milanesa napolitana* [here](https://www.thespruceeats.c
 
 You can read more about *Empanadas* [here](https://theculturetrip.com/south-america/argentina/articles/a-brief-history-of-the-empanada/).
 
-### A few of the things I want to learn this quarter
+### A few things I want to learn this quarter
 - [ ]  Learn Javascript
 - [ ]  Learn CSS
