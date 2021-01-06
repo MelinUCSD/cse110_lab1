@@ -1,15 +1,15 @@
 # What is this page about?
-Hopefully this page will serve as a small introduction to who I am and some of my interests.
+Hopefully this page will serve as a small introduction to who I am and some of my interests. Note that this page is not meant to be comprehensive :grin:, its main purpose is to practice utilizing Github Pages and Markdown files. 
 
 ## Table of contents
 - [A little about myself](#about-me)
 - [Favorite food](#favorite-food)
 
 ### About me
-I'm Matias Lin and I'm currently in my third year studtying bioinformatics. I was born in Buenos Aires, Argentina and I lived there basically my whole life before moving here for college. 
+I'm Matias Lin and I'm currently in my third year studtying bioinformatics. I was born in Buenos Aires, Argentina and I lived there basically my whole life before moving here for college. I'm really interested in machine learning and its potential in the area of biology. I'm currently working as a research assistant at UCSD Health in the Alexandrov's Lab, where I'm in charge to optimize one of the pipelines so that we can better diagnose different kinds of cancer. In order to do so, I'm utilizing a machine learning approach that involves CNNs to reduce the resources needed to execute the pipeline.
 
 ### Favorite food
-Having lived in Argentina for more than 17 years, it is not surprising that I collected quite a few of my favorite foods. This page will give provide you with a description of different Argentinian plates along with a simple recipe.
+Having lived in Argentina for more than 17 years, it is not surprising that I have a big list of favorite foods. Here are the descriptions of a few of my favorite foods.
 
 **Milanesa Napolitana**
 *Milanesa napolitana* is similar to veal parmesan, but with South American touches. After the steak is breaded and fried, it's topped with a slice of ham, tomato sauce, and melted mozzarella cheese, and served with french fries. Leftovers make great sandwiches, especially when paired with a soft but crusty roll. ~~Milanesa a la Napolitana does not originate from Milan or Naples~~; it's thought to have been invented in the 1940s at a Buenos Aires. When I was in Argentina we used to say: 
